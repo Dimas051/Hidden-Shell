@@ -38,7 +38,7 @@ Ini bukan sekadar tools. Ini seni desain di dunia gelap.
 
 🧠 “Coba tangkap aku. Aku bukan satu pola.”
 
-Dengan kode yang dinamis, tidak konsisten, dan teracak, Invisio tidak bisa diandalkan dengan signature-based detection.
+Dengan kode yang dinamis, tidak konsisten, dan teracak, Hidden Shell tidak bisa diandalkan dengan signature-based detection.
 Tidak ada pattern "web shell klasik" seperti eval, base64, atau system.
 
 ➡️ Setiap instalasi bisa berbeda.
