@@ -3,7 +3,7 @@ Kode ini adalah skrip PHP yang sangat kompleks, dan memiliki fungsi ganda. Secar
 
 🚩 Mengapa Hidden Shell?
 
-Ketika yang lain tertangkap, Invisio menghilang dalam bayang-bayang…
+Ketika yang lain tertangkap, Hidden Shell menghilang dalam bayang-bayang…
 
 🕶️ Benar-Benar Tidak Terdeteksi
 
