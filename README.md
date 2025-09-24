@@ -21,7 +21,7 @@ Tidak ada log sistem. Tidak ada file mencurigakan. Tidak ada hash signature yang
 
 🚷 “Firewall kamu? Antivirus kamu? Sekadar formalitas.”
 
-Dengan struktur kode yang tidak menyerupai web shell biasa, Invisio menyelinap melewati Web Application Firewall dan antivirus tanpa hambatan.
+Dengan struktur kode yang tidak menyerupai web shell biasa, Hidden Shell menyelinap melewati Web Application Firewall dan antivirus tanpa hambatan.
 
 🚪 Seolah-olah pintu server dibuka lebar, tanpa alarm berbunyi.
 
